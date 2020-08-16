@@ -16,7 +16,9 @@ enum CMDTYPE
 	CMD_LOGOUT,			// 登出
 	CMD_LOGOUT_RESULT,	// 登出返回结果
 	CMD_NEW_USER_JOIN,	// 新用户加入
-	CMD_ERROR			// 错误
+	CMD_ERROR,			// 错误
+	CMD_ERROR1			// 错误
+
 };
 
 // 消息头
